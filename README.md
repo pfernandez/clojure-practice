@@ -8,7 +8,7 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-Install (Leiningen)[http://leiningen.org/], then from the project directory, run:
+Install [Leiningen](http://leiningen.org/), then from the project directory, run:
 
     $ lein repl
     my-stuff.core=> (use 'my-stuff.core :reload) (-main)
